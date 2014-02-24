@@ -1,1 +1,1 @@
-{"robotName":"myRobot","robotServer":"spacebrew"}
+{"robotName":"myRobot","robotServer":"sandbox.spacebrew.cc"}
